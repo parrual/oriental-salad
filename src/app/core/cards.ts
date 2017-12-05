@@ -1294,7 +1294,7 @@ export const CARD_LIST: Card[] = [
   },
   {
     code: 'Plated_Beetle',
-    name: '밀랍 정령',
+    name: '단단한 ',
     type: 'Minion',
     class: 'Neutral',
     cost: 2,
